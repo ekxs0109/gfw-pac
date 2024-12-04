@@ -1,4 +1,4 @@
-var proxy = "PROXY ekxs-mac-mini:7897";
+var proxy = "SOCKS5 ekxs-mac-mini:7897";
 
 var direct = 'DIRECT';
 
